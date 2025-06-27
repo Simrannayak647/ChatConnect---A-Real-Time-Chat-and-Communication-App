@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496745155946",
+    "project_id": "chat-ceceb",
+    "storage_bucket": "chat-ceceb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496745155946:android:440f748e274346c6956913",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZCibTxiBnJ6YFX0nOPCZE6auwv1dhR8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
