@@ -35,7 +35,7 @@
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/Simrannayak647/ChatConnect---A-Real-Time-Chat-and-Communication-App.git
+   git clone https://github.com/Simrannayak647/ChatConnect-A-Real-Time-Chat-and-Communication-App.git
    cd ChatConnect
    ```
 
